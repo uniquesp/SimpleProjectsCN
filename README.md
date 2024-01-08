@@ -5,7 +5,7 @@
 ![Screenshot (1059)](https://github.com/uniquesp/SimpleProjectsCN/assets/71183249/6bad4e70-d4df-48cb-a6de-8b5b3947d4b6)
 
 
-2)Calculator(Glass):</br>
+2) Calculator(Glass):</br>
 ![Screenshot (17)](https://github.com/uniquesp/SimpleProjectsCN/assets/71183249/ac7b7b66-d7a5-446d-ada2-ee3b6cb9cd2c)
 
 
